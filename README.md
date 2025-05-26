@@ -21,7 +21,7 @@ A central file that can serve as a landing page or a starting point for explorin
 To explore the projects locally:
 
 1️⃣ Clone the repository:
-git clone https://github.com/yourusername/Web-Dev-Projects.git
+git clone https://github.com/MayankDey20/Web-Dev-Projects.git
 
 2️⃣ Navigate into a specific folder:
 cd Web-Dev-Projects/css task
